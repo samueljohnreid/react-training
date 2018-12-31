@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/samueljohnreid/react-training/issues"
   },
-  "homepage": "https://github.com/samueljohnreid/react-training#readme"
+  "homepage": "https://github.com/samueljohnreid/react-training#readme",
+  "dependencies": {
+    "react": "^16.7.0"
+  }
 }
